@@ -14,3 +14,5 @@ This project :
 + replaces  `eval` with `safeEval` from `safe-eval` in `calculator.js`
 + replaces `exec` with `execFile` from `child_process` in `linux.js`
 + combines userinput `filename` with current working directly using `path.join` and `process.cwd()` to eliminate vulnerability in `main.js`;
+
+![plot](public/regextool.JPG)
