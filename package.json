@@ -2,7 +2,7 @@
     "type": "module",
     "scripts": {
       "start": "node main.js",
-      "eslint": "eslint C:\\Users\\Public\\Documents\\jscript\\myapp\\projects\\defensive JS\\main.js",
+      "eslint": "eslint",
       "eslintFix": "eslint --fix",
       "eslintFixAll": "eslint --fix ."
     },
